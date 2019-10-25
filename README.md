@@ -32,7 +32,8 @@ VS2017 && .net framework 4.6
 工具提供了完整的多语言解决方案，自动生成多语言汇总表格。
 
 ## 说明
-![image](https://images.cnblogs.com/cnblogs_com/TravelingLight/1575583/o_flashExcel1.png)
+![image](https://images.cnblogs.com/cnblogs_com/TravelingLight/1575583/o_flashExcel1.png)  
+
 ![image](https://images.cnblogs.com/cnblogs_com/TravelingLight/1575583/o_flashExcel2.png)
 1. 第一行为类型
 2. 第二行为名称
