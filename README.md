@@ -30,8 +30,7 @@ VS2017 && .net framework 4.6
 工具提供了完整的多语言解决方案，自动生成多语言汇总表格。
 
 ## 说明
-![image](https://xxx.jpg?imageMogr2/auto-orient/strip)
-![image](https://xxx.jpg?imageMogr2/auto-orient/strip)
+![image](https://images.cnblogs.com/cnblogs_com/TravelingLight/1575583/o_flashExcel3.png)
 1. 第一行为类型
 2. 第二行为名称
 3. 第三行为导出标记：客户端(C)，战斗服务器(B)，逻辑服务器(S)。
